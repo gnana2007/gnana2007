@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**gnana2007/gnana2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Gnanada%20Alavala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20software%2C%20one%20project%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
 
@@ -114,9 +105,3 @@ My goal is to create innovative solutions that make a meaningful difference.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=100&section=footer"/>
 </div>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
