@@ -29,11 +29,9 @@ My goal is to create innovative solutions that make a meaningful difference.
 ## Focus Areas
 
 - Machine Learning
-- Deep Learning
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 - Agentic AI
-- Retrieval-Augmented Generation (RAG)
 - Multi-Agent Systems
 - AI Deployment (MLOps)
 
